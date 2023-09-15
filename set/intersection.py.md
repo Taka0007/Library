@@ -37,15 +37,15 @@ data:
     '
   dependsOn: []
   isVerificationFile: false
-  path: "\u96C6\u5408/intersection.py"
+  path: set/intersection.py
   requiredBy: []
-  timestamp: '2023-09-15 14:43:12+09:00'
+  timestamp: '2023-09-15 14:44:50+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: "\u96C6\u5408/intersection.py"
+documentation_of: set/intersection.py
 layout: document
 redirect_from:
-- "/library/\u96C6\u5408/intersection.py"
-- "/library/\u96C6\u5408/intersection.py.html"
-title: "\u96C6\u5408/intersection.py"
+- /library/set/intersection.py
+- /library/set/intersection.py.html
+title: set/intersection.py
 ---
