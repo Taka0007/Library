@@ -37,18 +37,15 @@ data:
     '
   dependsOn: []
   isVerificationFile: false
-  path: set/intersection.py
+  path: math/set/intersection.py
   requiredBy: []
-  timestamp: '2023-09-15 14:44:50+09:00'
+  timestamp: '2023-09-15 16:16:41+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: set/intersection.py
+documentation_of: math/set/intersection.py
 layout: document
-title: "\u7A4D\u96C6\u5408"
+redirect_from:
+- /library/math/set/intersection.py
+- /library/math/set/intersection.py.html
+title: math/set/intersection.py
 ---
-
-# 積集合
-2つの集合 $n,m$ に共通する要素を求めます。
-
-# 計算量
-- $O(min(n, m))$

@@ -9,11 +9,11 @@ data:
     - icon: ':warning:'
       path: math/num-theory/pow.py
       title: math/num-theory/pow.py
-  - name: set
+  - name: math/set
     pages:
     - icon: ':warning:'
-      path: set/intersection.py
-      title: "\u7A4D\u96C6\u5408"
+      path: math/set/intersection.py
+      title: math/set/intersection.py
   verificationCategories:
   - name: verify-check
     pages:
