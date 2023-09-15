@@ -16,7 +16,7 @@ data:
     \         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\
     \  File \"/opt/hostedtoolcache/Python/3.11.5/x64/lib/python3.11/site-packages/onlinejudge_verify/languages/python.py\"\
     , line 96, in bundle\n    raise NotImplementedError\nNotImplementedError\n"
-  code: "# verification-helper: PROBLEM https://atcoder.jp/contests/abc266/tasks/abc266_c\n\
+  code: "# IGNORE\n# verification-helper: PROBLEM https://atcoder.jp/contests/abc266/tasks/abc266_c\n\
     from scipy.spatial import ConvexHull\na1,a2 = map(int,input().split())\nb1,b2\
     \ = map(int,input().split())\nc1,c2 = map(int,input().split())\nd1,d2 = map(int,input().split())\n\
     \npoints = [ [a1,a2],[b1,b2], [c1,c2], [d1,d2] ]\nhull = ConvexHull(points)\n\
@@ -26,7 +26,7 @@ data:
   isVerificationFile: true
   path: verify-check/ABC266-C.test.py
   requiredBy: []
-  timestamp: '2023-09-15 23:30:49+09:00'
+  timestamp: '2023-09-16 01:11:12+09:00'
   verificationStatus: TEST_WRONG_ANSWER
   verifiedWith: []
 documentation_of: verify-check/ABC266-C.test.py
