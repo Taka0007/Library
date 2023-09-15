@@ -3,7 +3,7 @@ data:
   libraryCategories:
   - name: num-theory
     pages:
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: num-theory/pow.cpp
       title: num-theory/pow.cpp
     - icon: ':warning:'
@@ -17,7 +17,7 @@ data:
   verificationCategories:
   - name: verify-check
     pages:
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-B.test.cpp
       title: verify-check/AOJ-NTL-1-B.test.cpp
     - icon: ':heavy_check_mark:'
