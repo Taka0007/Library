@@ -5,7 +5,7 @@ data:
   _extendedVerifiedWith: []
   _isVerificationFailed: false
   _pathExtension: py
-  _verificationStatusIcon: ':heavy_check_mark:'
+  _verificationStatusIcon: ':warning:'
   attributes:
     PROBLEM: https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B
     links:
@@ -28,16 +28,16 @@ data:
 
     '
   dependsOn: []
-  isVerificationFile: true
-  path: math/num-theory/pow.test.py
+  isVerificationFile: false
+  path: math/num-theory/pow.py
   requiredBy: []
-  timestamp: '2023-09-15 15:39:42+09:00'
-  verificationStatus: TEST_ACCEPTED
+  timestamp: '2023-09-15 16:12:35+09:00'
+  verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: math/num-theory/pow.test.py
+documentation_of: math/num-theory/pow.py
 layout: document
 redirect_from:
-- /verify/math/num-theory/pow.test.py
-- /verify/math/num-theory/pow.test.py.html
-title: math/num-theory/pow.test.py
+- /library/math/num-theory/pow.py
+- /library/math/num-theory/pow.py.html
+title: math/num-theory/pow.py
 ---
