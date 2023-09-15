@@ -1,6 +1,11 @@
 ---
 data:
   libraryCategories:
+  - name: math/num-theory
+    pages:
+    - icon: ':warning:'
+      path: math/num-theory/pow.cpp
+      title: math/num-theory/pow.cpp
   - name: set
     pages:
     - icon: ':warning:'
