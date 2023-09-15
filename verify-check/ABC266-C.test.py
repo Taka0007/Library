@@ -1,3 +1,4 @@
+# IGNORE
 # verification-helper: PROBLEM https://atcoder.jp/contests/abc266/tasks/abc266_c
 from scipy.spatial import ConvexHull
 a1,a2 = map(int,input().split())
