@@ -17,6 +17,9 @@ data:
   verificationCategories:
   - name: verify-check
     pages:
+    - icon: ':x:'
+      path: verify-check/ABC266-C.test.py
+      title: verify-check/ABC266-C.test.py
     - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-B.test.cpp
       title: verify-check/AOJ-NTL-1-B.test.cpp
