@@ -2,8 +2,6 @@
 #include <iostream>
 #include "num-theory/pow.cpp"
 using namespace std;
-
-const long long MOD = 1000000007;  // 10^9 + 7
 int main() {
     long long m, n;
     cin >> m >> n;
