@@ -1,6 +1,11 @@
 ---
 data:
-  libraryCategories: []
+  libraryCategories:
+  - name: "\u96C6\u5408"
+    pages:
+    - icon: ':warning:'
+      path: "\u96C6\u5408/intersection.py"
+      title: "\u96C6\u5408/intersection.py"
   verificationCategories:
   - name: verify-check
     pages:
