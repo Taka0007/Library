@@ -1,17 +1,17 @@
 ---
 data:
   libraryCategories:
-  - name: math/num-theory
-    pages:
-    - icon: ':warning:'
-      path: math/num-theory/pow.py
-      title: math/num-theory/pow.py
   - name: set
     pages:
     - icon: ':warning:'
       path: set/intersection.py
       title: "\u7A4D\u96C6\u5408"
   verificationCategories:
+  - name: math/num-theory
+    pages:
+    - icon: ':heavy_check_mark:'
+      path: math/num-theory/pow.test.py
+      title: math/num-theory/pow.test.py
   - name: verify-check
     pages:
     - icon: ':heavy_check_mark:'
