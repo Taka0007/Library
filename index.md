@@ -5,7 +5,7 @@ data:
     pages:
     - icon: ':warning:'
       path: set/intersection.py
-      title: set/intersection.py
+      title: "\u7A4D\u96C6\u5408"
   verificationCategories:
   - name: verify-check
     pages:
