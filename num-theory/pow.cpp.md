@@ -2,10 +2,13 @@
 data:
   _extendedDependsOn: []
   _extendedRequiredBy: []
-  _extendedVerifiedWith: []
-  _isVerificationFailed: false
+  _extendedVerifiedWith:
+  - icon: ':x:'
+    path: verify-check/AOJ-NTL-1-B.test.cpp
+    title: verify-check/AOJ-NTL-1-B.test.cpp
+  _isVerificationFailed: true
   _pathExtension: cpp
-  _verificationStatusIcon: ':warning:'
+  _verificationStatusIcon: ':x:'
   attributes:
     links: []
   bundledCode: "#line 1 \"num-theory/pow.cpp\"\n#include <iostream>\nusing namespace\
@@ -24,8 +27,9 @@ data:
   path: num-theory/pow.cpp
   requiredBy: []
   timestamp: '2023-09-15 22:54:44+09:00'
-  verificationStatus: LIBRARY_NO_TESTS
-  verifiedWith: []
+  verificationStatus: LIBRARY_ALL_WA
+  verifiedWith:
+  - verify-check/AOJ-NTL-1-B.test.cpp
 documentation_of: num-theory/pow.cpp
 layout: document
 redirect_from:
