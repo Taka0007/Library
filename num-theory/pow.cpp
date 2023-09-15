@@ -1,4 +1,3 @@
-#define PROBLEM "https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B"
 #include <iostream>
 using namespace std;
 
@@ -14,12 +13,4 @@ long long mod_pow(long long base, long long exp, long long mod) {
         exp /= 2;
     }
     return result;
-}
-
-int main() {
-    long long m, n;
-    cin >> m >> n;
-    long long ans = mod_pow(m, n, MOD);
-    cout << ans << endl;
-    return 0;
 }
