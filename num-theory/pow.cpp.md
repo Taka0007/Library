@@ -9,7 +9,7 @@ data:
   attributes:
     links:
     - https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B
-  bundledCode: "#line 1 \"math/num-theory/pow.cpp\"\n#define PROBLEM \"https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B\"\
+  bundledCode: "#line 1 \"num-theory/pow.cpp\"\n#define PROBLEM \"https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_B\"\
     \n#include <iostream>\nusing namespace std;\n\nconst long long MOD = 1000000007;\
     \  // 10^9 + 7\n\nlong long mod_pow(long long base, long long exp, long long mod)\
     \ {\n    long long result = 1;\n    while (exp > 0) {\n        if (exp % 2 ==\
@@ -27,15 +27,15 @@ data:
     \ n, MOD);\n    cout << ans << endl;\n    return 0;\n}\n"
   dependsOn: []
   isVerificationFile: false
-  path: math/num-theory/pow.cpp
+  path: num-theory/pow.cpp
   requiredBy: []
-  timestamp: '2023-09-15 15:56:04+09:00'
+  timestamp: '2023-09-15 16:19:17+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: math/num-theory/pow.cpp
+documentation_of: num-theory/pow.cpp
 layout: document
 redirect_from:
-- /library/math/num-theory/pow.cpp
-- /library/math/num-theory/pow.cpp.html
-title: math/num-theory/pow.cpp
+- /library/num-theory/pow.cpp
+- /library/num-theory/pow.cpp.html
+title: num-theory/pow.cpp
 ---

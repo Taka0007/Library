@@ -4,11 +4,13 @@ data:
   - name: math/num-theory
     pages:
     - icon: ':warning:'
-      path: math/num-theory/pow.cpp
-      title: math/num-theory/pow.cpp
-    - icon: ':warning:'
       path: math/num-theory/pow.py
       title: math/num-theory/pow.py
+  - name: num-theory
+    pages:
+    - icon: ':warning:'
+      path: num-theory/pow.cpp
+      title: num-theory/pow.cpp
   - name: set
     pages:
     - icon: ':warning:'
