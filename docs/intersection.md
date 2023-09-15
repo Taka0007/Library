@@ -1,6 +1,6 @@
 ---
 title: 積集合
-documentation_of: ./set/intersection.py
+documentation_of: set/intersection.py
 ---
 
 # 積集合
