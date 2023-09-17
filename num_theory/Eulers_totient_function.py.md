@@ -53,7 +53,7 @@ title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08Python\uFF09"
 # 補足
 sympyを使っていいなら下記コードのほうが断然早い
 
-```Python
+```Python:totient.py
 from sympy import totient
 
 n = int(input())
