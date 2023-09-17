@@ -41,8 +41,10 @@ data:
   - verify-check/AOJ-NTL-1-D.test.py
 documentation_of: num_theory/Eulers_totient_function.py
 layout: document
-redirect_from:
-- /library/num_theory/Eulers_totient_function.py
-- /library/num_theory/Eulers_totient_function.py.html
-title: num_theory/Eulers_totient_function.py
+title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08Python\uFF09"
 ---
+
+# 積集合
+オイラーのφ関数を返します。
+
+# 計算量

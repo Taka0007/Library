@@ -52,8 +52,10 @@ data:
   - verify-check/AOJ-NTL-1-D.test.cpp
 documentation_of: num_theory/Eulers_totient_function.cpp
 layout: document
-redirect_from:
-- /library/num_theory/Eulers_totient_function.cpp
-- /library/num_theory/Eulers_totient_function.cpp.html
-title: num_theory/Eulers_totient_function.cpp
+title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08C++\uFF09"
 ---
+
+# 積集合
+オイラーのφ関数を返します。
+
+# 計算量
