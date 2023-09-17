@@ -1,6 +1,6 @@
 #define PROBLEM "https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_D"
 #include <iostream>
-#include "Eulers_totient_function.cpp"
+#include "num_theory/Eulers_totient_function.cpp"
 using namespace std;
 int main() {
     int main() {
