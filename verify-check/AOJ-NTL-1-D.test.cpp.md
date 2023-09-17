@@ -32,18 +32,18 @@ data:
     \u3066\u3044\u308B\u5834\u5408\u3001\u03C6\u95A2\u6570\u3092\u64CD\u4F5C\u3059\
     \u308B\n    if (N > 1) {\n        result = (result / N) * (N - 1);\n    }\n\n\
     \    return result;\n}\n#line 4 \"verify-check/AOJ-NTL-1-D.test.cpp\"\nusing namespace\
-    \ std;\nint main() {\n    int main() {\n    int N;\n    cin >> N;\n    cout <<\
-    \ EulersTotientFunction(N) << endl;\n    return 0;\n}\n"
+    \ std;\nint main() {\n    int N;\n    cin >> N;\n    cout << EulersTotientFunction(N)\
+    \ << endl;\n    return 0;\n}\n"
   code: "#define PROBLEM \"https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_D\"\n#include\
     \ <iostream>\n#include \"num_theory/Eulers_totient_function.cpp\"\nusing namespace\
-    \ std;\nint main() {\n    int main() {\n    int N;\n    cin >> N;\n    cout <<\
-    \ EulersTotientFunction(N) << endl;\n    return 0;\n}\n"
+    \ std;\nint main() {\n    int N;\n    cin >> N;\n    cout << EulersTotientFunction(N)\
+    \ << endl;\n    return 0;\n}\n"
   dependsOn:
   - num_theory/Eulers_totient_function.cpp
   isVerificationFile: true
   path: verify-check/AOJ-NTL-1-D.test.cpp
   requiredBy: []
-  timestamp: '2023-09-17 18:56:31+09:00'
+  timestamp: '2023-09-17 19:00:41+09:00'
   verificationStatus: TEST_WRONG_ANSWER
   verifiedWith: []
 documentation_of: verify-check/AOJ-NTL-1-D.test.cpp
