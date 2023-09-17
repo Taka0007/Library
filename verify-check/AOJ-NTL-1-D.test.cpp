@@ -5,6 +5,6 @@ using namespace std;
 int main() {
     int N;
     cin >> N;
-    cout << EulersTotientFunction(N) << endl;
+    cout << Eulers_Totient_Function(N) << endl;
     return 0;
 }
