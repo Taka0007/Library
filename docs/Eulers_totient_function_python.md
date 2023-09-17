@@ -12,7 +12,7 @@ documentation_of: ./num_theory/Eulers_totient_function.py
 # 補足
 sympyを使っていいなら下記コードのほうが断然早い
 
-```Python
+```Python:totient.py
 from sympy import totient
 
 n = int(input())
