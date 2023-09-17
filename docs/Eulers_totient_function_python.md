@@ -15,7 +15,7 @@ sympyを使っていいなら下記コードのほうが断然早い
 ```Python
 from sympy import totient
 
-n = 546354743765756756464
+n = int(input())
 result = totient(n)
 print(result)
 ```
