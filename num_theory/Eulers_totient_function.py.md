@@ -48,7 +48,7 @@ title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08Python\uFF09"
 オイラーのφ関数を返します。
 
 # 計算量
-
+- NULL
 
 # 補足
 sympyを使っていいなら下記コードのほうが断然早い
