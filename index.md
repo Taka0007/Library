@@ -3,7 +3,7 @@ data:
   libraryCategories:
   - name: num_theory
     pages:
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: num_theory/Eulers_totient_function.cpp
       title: num_theory/Eulers_totient_function.cpp
     - icon: ':heavy_check_mark:'
@@ -26,7 +26,7 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-B.test.cpp
       title: verify-check/AOJ-NTL-1-B.test.cpp
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-D.test.cpp
       title: verify-check/AOJ-NTL-1-D.test.cpp
     - icon: ':heavy_check_mark:'
