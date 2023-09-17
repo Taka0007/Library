@@ -3,7 +3,7 @@ data:
   libraryCategories:
   - name: num_theory
     pages:
-    - icon: ':warning:'
+    - icon: ':x:'
       path: num_theory/Eulers_totient_function.cpp
       title: num_theory/Eulers_totient_function.cpp
     - icon: ':heavy_check_mark:'

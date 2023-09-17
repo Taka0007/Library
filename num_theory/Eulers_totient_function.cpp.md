@@ -2,10 +2,13 @@
 data:
   _extendedDependsOn: []
   _extendedRequiredBy: []
-  _extendedVerifiedWith: []
-  _isVerificationFailed: false
+  _extendedVerifiedWith:
+  - icon: ':x:'
+    path: verify-check/AOJ-NTL-1-D.test.cpp
+    title: verify-check/AOJ-NTL-1-D.test.cpp
+  _isVerificationFailed: true
   _pathExtension: cpp
-  _verificationStatusIcon: ':warning:'
+  _verificationStatusIcon: ':x:'
   attributes:
     links: []
   bundledCode: "#line 1 \"num_theory/Eulers_totient_function.cpp\"\nint Eulers_Totient_Function(int\
@@ -44,8 +47,9 @@ data:
   path: num_theory/Eulers_totient_function.cpp
   requiredBy: []
   timestamp: '2023-09-17 18:51:34+09:00'
-  verificationStatus: LIBRARY_NO_TESTS
-  verifiedWith: []
+  verificationStatus: LIBRARY_ALL_WA
+  verifiedWith:
+  - verify-check/AOJ-NTL-1-D.test.cpp
 documentation_of: num_theory/Eulers_totient_function.cpp
 layout: document
 redirect_from:
