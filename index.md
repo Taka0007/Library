@@ -3,6 +3,9 @@ data:
   libraryCategories:
   - name: num_theory
     pages:
+    - icon: ':warning:'
+      path: num_theory/Eulers_totient_function.cpp
+      title: num_theory/Eulers_totient_function.cpp
     - icon: ':heavy_check_mark:'
       path: num_theory/Eulers_totient_function.py
       title: num_theory/Eulers_totient_function.py
