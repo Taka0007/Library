@@ -26,6 +26,9 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-B.test.cpp
       title: verify-check/AOJ-NTL-1-B.test.cpp
+    - icon: ':x:'
+      path: verify-check/AOJ-NTL-1-D.test.cpp
+      title: verify-check/AOJ-NTL-1-D.test.cpp
     - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-D.test.py
       title: verify-check/AOJ-NTL-1-D.test.py
