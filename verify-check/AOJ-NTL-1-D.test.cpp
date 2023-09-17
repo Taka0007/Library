@@ -3,7 +3,6 @@
 #include "num_theory/Eulers_totient_function.cpp"
 using namespace std;
 int main() {
-    int main() {
     int N;
     cin >> N;
     cout << EulersTotientFunction(N) << endl;
