@@ -1,6 +1,6 @@
 ---
 title: オイラーのφ関数（Python）
-documentation_of: .num_theory/Eulers_totient_function.py
+documentation_of: ./num_theory/Eulers_totient_function.py
 ---
 
 # 積集合
