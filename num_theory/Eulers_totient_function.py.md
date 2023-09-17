@@ -2,10 +2,13 @@
 data:
   _extendedDependsOn: []
   _extendedRequiredBy: []
-  _extendedVerifiedWith: []
+  _extendedVerifiedWith:
+  - icon: ':heavy_check_mark:'
+    path: verify-check/AOJ-NTL-1-D.test.py
+    title: verify-check/AOJ-NTL-1-D.test.py
   _isVerificationFailed: false
   _pathExtension: py
-  _verificationStatusIcon: ':warning:'
+  _verificationStatusIcon: ':heavy_check_mark:'
   attributes:
     links: []
   bundledCode: "Traceback (most recent call last):\n  File \"/opt/hostedtoolcache/Python/3.11.5/x64/lib/python3.11/site-packages/onlinejudge_verify/documentation/build.py\"\
@@ -30,15 +33,16 @@ data:
     \        result = (result//N)*(N-1)\n    \n    return result\n"
   dependsOn: []
   isVerificationFile: false
-  path: num-theory/Eulers_totient_function.py
+  path: num_theory/Eulers_totient_function.py
   requiredBy: []
-  timestamp: '2023-09-17 18:34:52+09:00'
-  verificationStatus: LIBRARY_NO_TESTS
-  verifiedWith: []
-documentation_of: num-theory/Eulers_totient_function.py
+  timestamp: '2023-09-17 18:47:10+09:00'
+  verificationStatus: LIBRARY_ALL_AC
+  verifiedWith:
+  - verify-check/AOJ-NTL-1-D.test.py
+documentation_of: num_theory/Eulers_totient_function.py
 layout: document
 redirect_from:
-- /library/num-theory/Eulers_totient_function.py
-- /library/num-theory/Eulers_totient_function.py.html
-title: num-theory/Eulers_totient_function.py
+- /library/num_theory/Eulers_totient_function.py
+- /library/num_theory/Eulers_totient_function.py.html
+title: num_theory/Eulers_totient_function.py
 ---

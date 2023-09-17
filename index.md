@@ -1,17 +1,17 @@
 ---
 data:
   libraryCategories:
-  - name: num-theory
+  - name: num_theory
     pages:
-    - icon: ':warning:'
-      path: num-theory/Eulers_totient_function.py
-      title: num-theory/Eulers_totient_function.py
     - icon: ':heavy_check_mark:'
-      path: num-theory/pow.cpp
-      title: num-theory/pow.cpp
+      path: num_theory/Eulers_totient_function.py
+      title: num_theory/Eulers_totient_function.py
     - icon: ':warning:'
-      path: num-theory/pow.py
-      title: num-theory/pow.py
+      path: num_theory/pow.cpp
+      title: num_theory/pow.cpp
+    - icon: ':warning:'
+      path: num_theory/pow.py
+      title: num_theory/pow.py
   - name: set
     pages:
     - icon: ':warning:'
@@ -20,10 +20,10 @@ data:
   verificationCategories:
   - name: verify-check
     pages:
-    - icon: ':heavy_check_mark:'
+    - icon: ':x:'
       path: verify-check/AOJ-NTL-1-B.test.cpp
       title: verify-check/AOJ-NTL-1-B.test.cpp
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: verify-check/AOJ-NTL-1-D.test.py
       title: verify-check/AOJ-NTL-1-D.test.py
     - icon: ':heavy_check_mark:'

@@ -29,15 +29,15 @@ data:
     '
   dependsOn: []
   isVerificationFile: false
-  path: num-theory/pow.py
+  path: num_theory/pow.py
   requiredBy: []
-  timestamp: '2023-09-15 16:19:37+09:00'
+  timestamp: '2023-09-17 18:47:10+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: num-theory/pow.py
+documentation_of: num_theory/pow.py
 layout: document
 redirect_from:
-- /library/num-theory/pow.py
-- /library/num-theory/pow.py.html
-title: num-theory/pow.py
+- /library/num_theory/pow.py
+- /library/num_theory/pow.py.html
+title: num_theory/pow.py
 ---

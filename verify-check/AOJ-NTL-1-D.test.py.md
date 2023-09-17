@@ -1,11 +1,14 @@
 ---
 data:
-  _extendedDependsOn: []
+  _extendedDependsOn:
+  - icon: ':heavy_check_mark:'
+    path: num_theory/Eulers_totient_function.py
+    title: num_theory/Eulers_totient_function.py
   _extendedRequiredBy: []
   _extendedVerifiedWith: []
-  _isVerificationFailed: true
+  _isVerificationFailed: false
   _pathExtension: py
-  _verificationStatusIcon: ':x:'
+  _verificationStatusIcon: ':heavy_check_mark:'
   attributes:
     PROBLEM: https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1/NTL_1_D
     links:
@@ -27,12 +30,13 @@ data:
     print(Eulers_totient_function(N))
 
     '
-  dependsOn: []
+  dependsOn:
+  - num_theory/Eulers_totient_function.py
   isVerificationFile: true
   path: verify-check/AOJ-NTL-1-D.test.py
   requiredBy: []
-  timestamp: '2023-09-17 18:45:21+09:00'
-  verificationStatus: TEST_WRONG_ANSWER
+  timestamp: '2023-09-17 18:47:10+09:00'
+  verificationStatus: TEST_ACCEPTED
   verifiedWith: []
 documentation_of: verify-check/AOJ-NTL-1-D.test.py
 layout: document
