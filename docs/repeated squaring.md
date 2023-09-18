@@ -8,7 +8,7 @@ documentation_of: ./num_theory/pow.cpp
 
 
 # 計算量
-指数を$N$として
+指数を $N$ として
 - $O(logN)$
 
 # 補足
