@@ -13,7 +13,7 @@ documentation_of: ./num_theory/pow.cpp
 
 # 補足
 Pythonなら下記コードで自動的に繰り返し二乗法を行ってくれる。
-$a^b$を $mod$ で割った余りを $O(log(N))$ で出してくれる。
+$a^b$を $mod$ で割った余りを $O(log(b))$ で出してくれる。
 
 ```Python:pow.py
 pow(a,b,mod)
