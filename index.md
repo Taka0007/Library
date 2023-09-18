@@ -11,7 +11,7 @@ data:
       title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08Python\uFF09"
     - icon: ':heavy_check_mark:'
       path: num_theory/pow.cpp
-      title: num_theory/pow.cpp
+      title: "\u7E70\u308A\u8FD4\u3057\u4E8C\u4E57\u6CD5\uFF08C++\uFF09"
     - icon: ':warning:'
       path: num_theory/pow.py
       title: num_theory/pow.py
