@@ -44,7 +44,7 @@ layout: document
 title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08Python\uFF09"
 ---
 
-# 積集合
+# 概要
 オイラーのφ関数を返します。
 
 # 計算量
