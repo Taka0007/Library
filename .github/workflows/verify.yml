@@ -25,6 +25,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        # DROPBOX_TOKEN: ${{ secrets.DROPBOX_TOKEN }}
-       # YUKICODER_TOKEN: ${{ secrets.YUKICODER_TOKEN }}
+        YUKICODER_TOKEN: ${{ secrets.YUKICODER_TOKEN }}
         GH_PAT: ${{ secrets.GH_PAT }}
       run: oj-verify all
