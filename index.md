@@ -15,6 +15,9 @@ data:
     - icon: ':warning:'
       path: num_theory/pow.py
       title: num_theory/pow.py
+    - icon: ':warning:'
+      path: num_theory/prime_sieve.py
+      title: num_theory/prime_sieve.py
   - name: set
     pages:
     - icon: ':warning:'
