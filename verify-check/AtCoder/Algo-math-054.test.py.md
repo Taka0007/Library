@@ -16,7 +16,7 @@ data:
     \         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\
     \  File \"/opt/hostedtoolcache/Python/3.11.5/x64/lib/python3.11/site-packages/onlinejudge_verify/languages/python.py\"\
     , line 96, in bundle\n    raise NotImplementedError\nNotImplementedError\n"
-  code: "# verification-helper: PROBLEM https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_at\n\
+  code: "# IGNORE\n# verification-helper: PROBLEM https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_at\n\
     \n\nimport numpy as np\n\ndef dot(A1, A2, N, mod):\n    # N: \u884C\u5217\u306E\
     \u30B5\u30A4\u30BA\n    A = np.zeros((N, N), dtype=int)\n    for i in range(N):\n\
     \        for j in range(N):\n            for k in range(N):\n                A[i][j]\
@@ -31,7 +31,7 @@ data:
   isVerificationFile: true
   path: verify-check/AtCoder/Algo-math-054.test.py
   requiredBy: []
-  timestamp: '2023-09-21 14:28:58+09:00'
+  timestamp: '2023-09-22 16:23:16+09:00'
   verificationStatus: TEST_WRONG_ANSWER
   verifiedWith: []
 documentation_of: verify-check/AtCoder/Algo-math-054.test.py
