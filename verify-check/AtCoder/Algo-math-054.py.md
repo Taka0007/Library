@@ -3,9 +3,9 @@ data:
   _extendedDependsOn: []
   _extendedRequiredBy: []
   _extendedVerifiedWith: []
-  _isVerificationFailed: true
+  _isVerificationFailed: false
   _pathExtension: py
-  _verificationStatusIcon: ':x:'
+  _verificationStatusIcon: ':warning:'
   attributes:
     links: []
   bundledCode: "Traceback (most recent call last):\n  File \"/opt/hostedtoolcache/Python/3.11.5/x64/lib/python3.11/site-packages/onlinejudge_verify/documentation/build.py\"\
@@ -25,16 +25,16 @@ data:
     mat = np.array([[1, 1], [1, 0]], dtype=int)\nmod = 10**9\nans_matrix = pow_mat(mat,\
     \ N-1, 2, mod)\nans = (ans_matrix[1][0] + ans_matrix[1][1]) % mod\nprint(ans)\n"
   dependsOn: []
-  isVerificationFile: true
-  path: verify-check/AtCoder/Algo-math-054.test.py
+  isVerificationFile: false
+  path: verify-check/AtCoder/Algo-math-054.py
   requiredBy: []
-  timestamp: '2023-09-22 16:32:45+09:00'
-  verificationStatus: TEST_WRONG_ANSWER
+  timestamp: '2023-09-22 16:37:30+09:00'
+  verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
-documentation_of: verify-check/AtCoder/Algo-math-054.test.py
+documentation_of: verify-check/AtCoder/Algo-math-054.py
 layout: document
 redirect_from:
-- /verify/verify-check/AtCoder/Algo-math-054.test.py
-- /verify/verify-check/AtCoder/Algo-math-054.test.py.html
-title: verify-check/AtCoder/Algo-math-054.test.py
+- /library/verify-check/AtCoder/Algo-math-054.py
+- /library/verify-check/AtCoder/Algo-math-054.py.html
+title: verify-check/AtCoder/Algo-math-054.py
 ---

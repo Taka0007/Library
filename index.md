@@ -23,6 +23,11 @@ data:
     - icon: ':warning:'
       path: set/intersection.py
       title: "\u7A4D\u96C6\u5408"
+  - name: verify-check/AtCoder
+    pages:
+    - icon: ':warning:'
+      path: verify-check/AtCoder/Algo-math-054.py
+      title: verify-check/AtCoder/Algo-math-054.py
   verificationCategories:
   - name: verify-check
     pages:
@@ -44,11 +49,6 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify-check/example2.test.py
       title: verify-check/example2.test.py
-  - name: verify-check/AtCoder
-    pages:
-    - icon: ':x:'
-      path: verify-check/AtCoder/Algo-math-054.test.py
-      title: verify-check/AtCoder/Algo-math-054.test.py
   - name: verify-check/yukicoder
     pages:
     - icon: ':heavy_check_mark:'
