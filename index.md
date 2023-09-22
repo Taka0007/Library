@@ -17,7 +17,7 @@ data:
       title: num_theory/pow.py
     - icon: ':warning:'
       path: num_theory/prime_sieve.py
-      title: num_theory/prime_sieve.py
+      title: "\u30A8\u30E9\u30C8\u30B9\u30C6\u30CD\u30B9\u306E\u7BE9(Python)"
   - name: set
     pages:
     - icon: ':warning:'
