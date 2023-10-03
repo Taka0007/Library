@@ -52,6 +52,11 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify-check/example2.test.py
       title: verify-check/example2.test.py
+  - name: verify-check/Library_checker
+    pages:
+    - icon: ':heavy_check_mark:'
+      path: verify-check/Library_checker/Primality_Test.test.py
+      title: verify-check/Library_checker/Primality_Test.test.py
   - name: verify-check/yukicoder
     pages:
     - icon: ':heavy_check_mark:'
