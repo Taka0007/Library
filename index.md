@@ -3,6 +3,9 @@ data:
   libraryCategories:
   - name: num_theory
     pages:
+    - icon: ':warning:'
+      path: num_theory/Eratosthenes' interval sieve_all.py
+      title: num_theory/Eratosthenes' interval sieve_all.py
     - icon: ':heavy_check_mark:'
       path: num_theory/Eulers_totient_function.cpp
       title: "\u30AA\u30A4\u30E9\u30FC\u306E\u03C6\u95A2\u6570\uFF08C++\uFF09"
