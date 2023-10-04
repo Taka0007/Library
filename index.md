@@ -47,6 +47,9 @@ data:
       path: verify-check/AOJ-NTL-1-D.test.py
       title: verify-check/AOJ-NTL-1-D.test.py
     - icon: ':heavy_check_mark:'
+      path: verify-check/L_checker_Primetest.test.py
+      title: verify-check/L_checker_Primetest.test.py
+    - icon: ':heavy_check_mark:'
       path: verify-check/example.test.cpp
       title: verify-check/example.test.cpp
     - icon: ':heavy_check_mark:'
