@@ -68,6 +68,9 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify-check/yukicoder/yuki-345.test.py
       title: verify-check/yukicoder/yuki-345.test.py
+    - icon: ':heavy_check_mark:'
+      path: verify-check/yukicoder/yuki3030.test.py
+      title: verify-check/yukicoder/yuki3030.test.py
 layout: toppage
 ---
 [![Actions Status](https://github.com/Taka0007/Library/workflows/verify/badge.svg)](https://github.com/Taka0007/Library/actions)
