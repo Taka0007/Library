@@ -26,12 +26,12 @@ data:
     \    for j in range(k * i, b, i):\n                is_prime[j - a] = False\n\n\
     \        for i in range(b - a):\n            if is_prime[i] and i + a >= 2 and\
     \ i + a <= n:\n                primes.append(i + a)\n\n    return is_prime_small\n\
-    \nN = int(input())\nprint(efficient_space_sieve(N))\n"
+    \n#N = int(input())\n#print(efficient_space_sieve(N))\n"
   dependsOn: []
   isVerificationFile: false
   path: num_theory/Eratosthenes' interval sieve_all.py
   requiredBy: []
-  timestamp: '2023-10-03 16:26:08+09:00'
+  timestamp: '2023-10-08 16:47:23+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
 documentation_of: num_theory/Eratosthenes' interval sieve_all.py
