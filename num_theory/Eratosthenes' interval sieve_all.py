@@ -31,5 +31,5 @@ def efficient_space_sieve(n):
 
     return is_prime_small
 
-N = int(input())
-print(efficient_space_sieve(N))
+#N = int(input())
+#print(efficient_space_sieve(N))
