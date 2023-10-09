@@ -1,6 +1,11 @@
 ---
 data:
   libraryCategories:
+  - name: compression
+    pages:
+    - icon: ':warning:'
+      path: compression/array_compression.py
+      title: compression/array_compression.py
   - name: num_theory
     pages:
     - icon: ':warning:'
