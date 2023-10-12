@@ -46,4 +46,4 @@ title: "\u30A8\u30E9\u30C8\u30B9\u30C6\u30CD\u30B9\u306E\u7BE9(Python)"
 # 計算量
 
 # Verify問題
-- アルゴ式：https://algo-method.com/submissions/1147166
+- アルゴ式：[https://algo-method.com/submissions/1147166](https://algo-method.com/submissions/1147166)

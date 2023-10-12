@@ -6,6 +6,9 @@ data:
     - icon: ':warning:'
       path: compression/array_compression.py
       title: compression/array_compression.py
+    - icon: ':warning:'
+      path: compression/array_compression2.py
+      title: compression/array_compression2.py
   - name: num_theory
     pages:
     - icon: ':warning:'
