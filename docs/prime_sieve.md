@@ -10,4 +10,4 @@ documentation_of: ./num_theory/prime_sieve.py
 # 計算量
 
 # Verify問題
-- アルゴ式：https://algo-method.com/submissions/1147166
+- アルゴ式：[https://algo-method.com/submissions/1147166](https://algo-method.com/submissions/1147166)
