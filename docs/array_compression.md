@@ -9,7 +9,7 @@ documentation_of: ./compression/array_compression.py
 # 計算量
 - 未解析（後で書きます。）
 
-## 補足
+# 補足
 Pythonならmap関連の動作が早いので、これでも通る。
 
 ```Python : array_compression.py
