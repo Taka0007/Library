@@ -3,7 +3,7 @@ title: 座標圧縮
 documentation_of: ./compression/array_compression.py
 ---
 
-# 積集合
+# 概要
 座標圧縮を行います。
 
 # 計算量
