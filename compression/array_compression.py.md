@@ -33,8 +33,30 @@ data:
   verifiedWith: []
 documentation_of: compression/array_compression.py
 layout: document
-redirect_from:
-- /library/compression/array_compression.py
-- /library/compression/array_compression.py.html
-title: compression/array_compression.py
+title: "\u5EA7\u6A19\u5727\u7E2E"
 ---
+
+# 積集合
+座標圧縮を行います。
+
+# 計算量
+- 未解析（後で書きます。）
+
+## 補足
+Pythonならmap関連の動作が早いので、これでも通る。
+
+```Python: array_compression.py
+N = int(input())
+A = list(map(int, input().split()))
+
+# 重複削除&ソート
+sorted_unique_A = sorted(set(A))
+
+# 座標圧縮マップ
+coordinate_map = {value: index + 1 for index, value in enumerate(sorted_unique_A)}
+
+# 座標圧縮を行い、Bに格納
+B = [coordinate_map[a] for a in A]
+
+print(*B)
+```

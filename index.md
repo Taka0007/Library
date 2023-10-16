@@ -5,10 +5,7 @@ data:
     pages:
     - icon: ':warning:'
       path: compression/array_compression.py
-      title: compression/array_compression.py
-    - icon: ':warning:'
-      path: compression/array_compression2.py
-      title: compression/array_compression2.py
+      title: "\u5EA7\u6A19\u5727\u7E2E"
   - name: num_theory
     pages:
     - icon: ':warning:'
