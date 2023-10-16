@@ -42,7 +42,7 @@ title: "\u5EA7\u6A19\u5727\u7E2E"
 # 計算量
 - 未解析（後で書きます。）
 
-## 補足
+# 補足
 Pythonならmap関連の動作が早いので、これでも通る。
 
 ```Python : array_compression.py
