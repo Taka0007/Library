@@ -45,7 +45,7 @@ title: "\u5EA7\u6A19\u5727\u7E2E"
 ## 補足
 Pythonならmap関連の動作が早いので、これでも通る。
 
-```Python:array_compression.py
+```Python : array_compression.py
 N = int(input())
 A = list(map(int, input().split()))
 # 重複削除&ソート
