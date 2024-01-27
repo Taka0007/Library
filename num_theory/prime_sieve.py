@@ -9,7 +9,7 @@ def prime_sieve(N):
     num[0] = False
     num[1] = False
     # 1～Nまでの範囲を走査。
-    # 1-indexで考えます。 (ex:1はnum[1],77はnum[77])
+    # 1-indexで考える (ex:1はnum[1],77はnum[77])
     for i in range(2,N+1):
         if num[i]:
             # iが素数である場合、iの倍数のフラグを全て1に変更する
